@@ -11,7 +11,6 @@ api.env.hosts = ['142.44.167.235', '144.217.246.199']
 api.env.user = 'ubuntu'
 api.env.key_filename = '~/.ssh/holberton'
 
-
 def deploy():
     """Wrapper function to pack html files into tarball and transfer
     to web servers."""

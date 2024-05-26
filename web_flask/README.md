@@ -1,6 +1,5 @@
 <h1 class="gap">0x04. AirBnB clone - Web framework</h1>
 
-
 <h4 class="task">
     0. Hello Flask!
       <span class="alert alert-warning mandatory-optional">
